@@ -6,16 +6,21 @@ https://user-images.githubusercontent.com/80235345/222784531-9010c156-465d-4e6f-
 
 ## You will need...
 
-- Basic knowledges about electronic circuits, soldier circuits and [ironing method](https://youtu.be/xMz-ayK_slk)
-- Attiny85
-- Arduino UNO
-- Piezoeectric (or buzzer)
-- Jumpers/wires
-- Protoboard
+- Basic knowledges about electronic circuits, soldier circuits and [ironing method](https://youtu.be/xMz-ayK_slk).
+- Attiny85.
+- Arduino UNO.
+- Piezoeectric (or buzzer).
+- 12 resistors 220 Ohms.
+- Socket for attiny85.
+- SMD switch.
+- CR225 Lithium Cell 3V.
+- Some SMD pins.
+- Jumpers/wires.
+- Protoboard.
 
 ## How to build
 
-To build this circuit I print the `svg` file inside `printables` folder on photo paper or propacolte paper for use the [ironing method](https://youtu.be/xMz-ayK_slk).
+To build this circuit you need to print the `pianoV2_etch_copper_bottom.svg` file inside `printables` folder on photo paper or propacolte paper for use the [ironing method](https://youtu.be/xMz-ayK_slk).
 
 > If you don't want use this technique, you can create your PCB using a PCB online service like *PCBWay*, just download the `attiny-gerber.zip` file.
 
