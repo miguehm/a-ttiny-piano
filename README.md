@@ -2,7 +2,7 @@
 
 `a-ttiny-piano` is a custom circuit plate can plays piano notes using an attiny85.
 
-img
+https://user-images.githubusercontent.com/80235345/222784531-9010c156-465d-4e6f-8f8a-89e5a80ac3d4.mp4
 
 ## You will need...
 
@@ -27,10 +27,8 @@ Once you can send sketchs to your attiny, you need to send the `piano.ino` file.
 
 ## Schematic Circuit
 
-img
+![pianoV2_schem](https://user-images.githubusercontent.com/80235345/222785410-8b09fd43-f917-49c6-8c0d-10c873c4f564.jpg)
 
 ## PCB
 
-img
-
-
+![pianoV2_pcb](https://user-images.githubusercontent.com/80235345/222785458-f9b7613d-3895-4fd2-b97b-6f4fc813cd16.jpg)
